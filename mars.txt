@@ -1,3 +1,6 @@
-Hi
-Its working!
+Hi, 
+This is my first file for github
+Hey is this working
+
+
 
